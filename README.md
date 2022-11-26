@@ -1,4 +1,4 @@
-# lives-tat-65-e-67-testes-de-api-com-cypress
+# testes-de-api-com-cypress
 
 Sample project to experiment with [Typeform's API](https://developer.typeform.com/).
 
